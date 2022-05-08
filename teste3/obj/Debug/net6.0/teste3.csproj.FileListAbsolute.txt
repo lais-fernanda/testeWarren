@@ -1,0 +1,15 @@
+C:\Users\carme\OneDrive\Área de Trabalho\warrentech\teste3\bin\Debug\net6.0\teste3.exe
+C:\Users\carme\OneDrive\Área de Trabalho\warrentech\teste3\bin\Debug\net6.0\teste3.deps.json
+C:\Users\carme\OneDrive\Área de Trabalho\warrentech\teste3\bin\Debug\net6.0\teste3.runtimeconfig.json
+C:\Users\carme\OneDrive\Área de Trabalho\warrentech\teste3\bin\Debug\net6.0\teste3.dll
+C:\Users\carme\OneDrive\Área de Trabalho\warrentech\teste3\bin\Debug\net6.0\teste3.pdb
+C:\Users\carme\OneDrive\Área de Trabalho\warrentech\teste3\obj\Debug\net6.0\teste3.csproj.AssemblyReference.cache
+C:\Users\carme\OneDrive\Área de Trabalho\warrentech\teste3\obj\Debug\net6.0\teste3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carme\OneDrive\Área de Trabalho\warrentech\teste3\obj\Debug\net6.0\teste3.AssemblyInfoInputs.cache
+C:\Users\carme\OneDrive\Área de Trabalho\warrentech\teste3\obj\Debug\net6.0\teste3.AssemblyInfo.cs
+C:\Users\carme\OneDrive\Área de Trabalho\warrentech\teste3\obj\Debug\net6.0\teste3.csproj.CoreCompileInputs.cache
+C:\Users\carme\OneDrive\Área de Trabalho\warrentech\teste3\obj\Debug\net6.0\teste3.dll
+C:\Users\carme\OneDrive\Área de Trabalho\warrentech\teste3\obj\Debug\net6.0\refint\teste3.dll
+C:\Users\carme\OneDrive\Área de Trabalho\warrentech\teste3\obj\Debug\net6.0\teste3.pdb
+C:\Users\carme\OneDrive\Área de Trabalho\warrentech\teste3\obj\Debug\net6.0\teste3.genruntimeconfig.cache
+C:\Users\carme\OneDrive\Área de Trabalho\warrentech\teste3\obj\Debug\net6.0\ref\teste3.dll
